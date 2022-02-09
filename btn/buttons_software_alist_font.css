@@ -201,7 +201,37 @@ background-color: #5A0187;
   color:white;
 }
 
+.romper {
+   border-color: transparent;
+   width: 123px;
+   height: 40px;
+   background-color:#D66302;
+   color:#FFFFFF;
+   animation-name: romper;
+   animation-duration:3s;
+   border-radius:20px;
+   margin-top: 45px;
+   margin-left: 23px;
+   
+}
 
+@keyframes romper{
+  from{
+    background-color:#D60210;
+  }
+/*
+to{
+  background-color:#D9C006;
+}
+/*
+to{
+  background-color: #9B08B9;
+}
+to{
+  background-color: #13B908;
+}
+*/
+}
 
 
 
