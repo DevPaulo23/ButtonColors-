@@ -10,5 +10,5 @@ Leia o arquivo de licença incluído
 
 <br>
 
-<a greg="https://raw.githubusercontent.com/DevPaulo23/ButtonColors-/main/btn/buttons_software_alist_font.css">código fonte da casa aqui</a>
+<a href="https://raw.githubusercontent.com/DevPaulo23/ButtonColors-/main/btn/buttons_software_alist_font.css">código fonte da casa aqui</a>
 
